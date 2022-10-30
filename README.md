@@ -14,3 +14,7 @@ cd client
 yarn remove next
 yarn add next@12.3.2
 ```
+
+```
+yarn add -D outstatic
+```
